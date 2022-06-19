@@ -1,0 +1,9 @@
+This repository contains tools developed in support of the doctoral disseration of David Gold at Cornell University.
+
+Tools include:
+- Runtime diagnostics for multi-objective evolutionary search
+- Visualization tools for high-dimensional data sets
+- Scripts to support large scale experiments on high-performance computing systems
+
+
+This repository is currently under construction. 
